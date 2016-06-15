@@ -17,4 +17,4 @@ function solve(args) {
         console.log('false '+digit);
     }
 }
-solve(['5']);
+//solve(['5']);
