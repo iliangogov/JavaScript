@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f16c030-b99a-437f-83a4-72c228400171" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/DigitAsWord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/QuadraticEquation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/TheBiggestOfFiveNumbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops/HexToDecimal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops/MMSA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops/MatrixOfNumbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops/Numbers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" afterPath="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptFundamentals.iws" />
@@ -27,11 +28,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NumberAsWords.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberAsWords.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.755611">
+            <state vertical-scroll-proportion="0.0">
               <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Loops/Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MMSA.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Loops/MMSA.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixOfNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Loops/MatrixOfNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HexToDecimal.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Loops/HexToDecimal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.72069824">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
@@ -74,6 +123,10 @@
         <option value="module.js" />
         <option value="internal/process/stdio.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
+        <option value="$PROJECT_DIR$/Loops/Numbers.js" />
+        <option value="$PROJECT_DIR$/Loops/MMSA.js" />
+        <option value="$PROJECT_DIR$/Loops/MatrixOfNumbers.js" />
+        <option value="$PROJECT_DIR$/Loops/HexToDecimal.js" />
       </list>
     </option>
   </component>
@@ -167,7 +220,7 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Loops/HexToDecimal.js" />
     <property name="FullScreen" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="babel&#9;null&#9;null" />
@@ -215,7 +268,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="NumberAsWords.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
+    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="HexToDecimal.js" working-dir="$PROJECT_DIR$/Loops">
       <method />
     </configuration>
     <list size="2">
@@ -368,10 +421,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OperatorsAndExpressions/OddOrEven.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="20" selection-start-line="1" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/MMSA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="1" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.755611">
+        <state vertical-scroll-proportion="0.0">
           <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/MatrixOfNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/HexToDecimal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72069824">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>

@@ -65,4 +65,4 @@ function solve(args) {
 }
 
 
-solve(119);
+solve(33);
