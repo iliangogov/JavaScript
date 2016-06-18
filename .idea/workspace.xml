@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f16c030-b99a-437f-83a4-72c228400171" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/ExchangeIfGreater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/MultiplicationSign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/Sort 3numbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/TheBiggestOfThree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/DigitAsWord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/QuadraticEquation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConditionalStatements/TheBiggestOfFiveNumbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptFundamentals.iws" />
@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sort 3numbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ConditionalStatements/Sort 3numbers.js">
+      <file leaf-file-name="NumberAsWords.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33915213">
-              <caret line="10" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state vertical-scroll-proportion="2.755611">
+              <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
@@ -68,6 +68,12 @@
         <option value="$PROJECT_DIR$/ConditionalStatements/MultiplicationSign.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/TheBiggestOfThree.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/Sort 3numbers.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/DigitAsWord.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/QuadraticEquation.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/TheBiggestOfFiveNumbers.js" />
+        <option value="module.js" />
+        <option value="internal/process/stdio.js" />
+        <option value="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
       </list>
     </option>
   </component>
@@ -148,20 +154,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptFundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptFundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ConditionalStatements" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -175,7 +167,7 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ConditionalStatements/Sort 3numbers.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
     <property name="FullScreen" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="babel&#9;null&#9;null" />
@@ -223,7 +215,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Sort 3numbers.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
+    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="NumberAsWords.js" working-dir="$PROJECT_DIR$/ConditionalStatements">
       <method />
     </configuration>
     <list size="2">
@@ -251,9 +243,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5146413" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -293,7 +285,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -302,26 +294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc;n#solve#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConditionalStatements/ExchangeIfGreater.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc;n#solve#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConditionalStatements/TheBiggestOfThree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
@@ -338,8 +310,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConditionalStatements/Sort 3numbers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33915213">
-          <caret line="10" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/ExchangeIfGreater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="20" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/DigitAsWord.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/QuadraticEquation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/TheBiggestOfThree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/TheBiggestOfFiveNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.755611">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
