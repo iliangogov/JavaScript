@@ -48,4 +48,4 @@ function solve(args) {
     console.log(output.charAt(0).toUpperCase()+output.slice(1));
 
 }
-//solve('718');
+solve('718');
