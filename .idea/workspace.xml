@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f16c030-b99a-437f-83a4-72c228400171" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/Binary search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/FrequentNumber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/PrimeNumbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/AppearanceCount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/Demos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/EnglishDigit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/GetLargestNumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/LargerThanNeighbours.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/PrintTriangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/SayHello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/SortingArray.js" />
+      <change type="DELETED" beforePath="C:\Users\Gogov\Desktop\GitHubClone\JavaScriptFundamentals\LECTIONS\ArraysFunctions.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptFundamentals.iws" />
@@ -26,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MaximalIncreasingSequence.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js">
+      <file leaf-file-name="LargerThanNeighbours.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions/LargerThanNeighbours.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
@@ -38,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectionSort.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays/SelectionSort.js">
+      <file leaf-file-name="EnglishDigit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions/EnglishDigit.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="52" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="52" />
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
@@ -50,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FrequentNumber.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays/FrequentNumber.js">
+      <file leaf-file-name="FirstLargerThanNeighbours.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="36" />
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
@@ -62,24 +69,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary search.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays/Binary search.js">
+      <file leaf-file-name="SortingArray.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions/SortingArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.7456359">
+              <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrimeNumbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Arrays/PrimeNumbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8902743">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#solve#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -124,7 +119,6 @@
         <option value="$PROJECT_DIR$/Loops/HexToDecimal.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/NumberAsWord2.js" />
-        <option value="$PROJECT_DIR$/LECTIONS/ArraysFunctions.js" />
         <option value="$PROJECT_DIR$/Arrays/IncreaseArrayMembers.js" />
         <option value="$PROJECT_DIR$/Arrays/LexicographicallyCompare.js" />
         <option value="$PROJECT_DIR$/Arrays/MaximalSequence.js" />
@@ -133,6 +127,15 @@
         <option value="$PROJECT_DIR$/Arrays/FrequentNumber.js" />
         <option value="$PROJECT_DIR$/Arrays/Binary search.js" />
         <option value="$PROJECT_DIR$/Arrays/PrimeNumbers.js" />
+        <option value="$PROJECT_DIR$/LECTIONS/ArraysFunctions.js" />
+        <option value="$PROJECT_DIR$/Functions/SayHello.js" />
+        <option value="$PROJECT_DIR$/Functions/GetLargestNumber.js" />
+        <option value="$PROJECT_DIR$/Functions/EnglishDigit.js" />
+        <option value="$PROJECT_DIR$/Functions/AppearanceCount.js" />
+        <option value="$PROJECT_DIR$/LECTIONS/Demos.js" />
+        <option value="$PROJECT_DIR$/Functions/LargerThanNeighbours.js" />
+        <option value="$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js" />
+        <option value="$PROJECT_DIR$/Functions/SortingArray.js" />
       </list>
     </option>
   </component>
@@ -223,6 +226,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="LECTIONS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScriptFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Arrays" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -240,7 +271,7 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Arrays/PrimeNumbers.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Functions/SortingArray.js" />
     <property name="FullScreen" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="babel&#9;null&#9;null" />
@@ -288,7 +319,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/Arrays/PrimeNumbers.js" working-dir="$PROJECT_DIR$/Loops">
+    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/Functions/SortingArray.js" working-dir="$PROJECT_DIR$/Loops">
       <method />
     </configuration>
     <list size="2">
@@ -315,7 +346,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -373,12 +404,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LECTIONS/ArraysFunctions.js">
+    <entry file="file://$PROJECT_DIR$/LECTIONS/PrintTriangle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#41#0" expanded="false" />
+            <element signature="n#!!doc;n#printTriangle#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -502,16 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LECTIONS/ArraysFunctions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Loops/HexToDecimal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -520,10 +541,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LECTIONS/PrintTriangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc;n#printTriangle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/SayHello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#SayName#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LECTIONS/Demos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/GetLargestNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/FrequentNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/IncreaseArrayMembers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="12" />
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -538,10 +617,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/LexicographicallyCompare.js">
+    <entry file="file://$PROJECT_DIR$/Arrays/PrimeNumbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="43" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="43" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
@@ -558,20 +637,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js">
+    <entry file="file://$PROJECT_DIR$/Arrays/LexicographicallyCompare.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#solve#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/FrequentNumber.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <caret line="4" column="43" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="43" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
@@ -586,13 +655,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/PrimeNumbers.js">
+    <entry file="file://$PROJECT_DIR$/Functions/AppearanceCount.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8902743">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/LargerThanNeighbours.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/EnglishDigit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/SortingArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7456359">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
