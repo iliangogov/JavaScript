@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f16c030-b99a-437f-83a4-72c228400171" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/IncreaseArrayMembers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/LexicographicallyCompare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/MaximalSequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/SelectionSort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/Binary search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/FrequentNumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arrays/PrimeNumbers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptFundamentals.iws" />
@@ -32,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
@@ -40,11 +38,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectionSort.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SelectionSort.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays/SelectionSort.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80548626">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="52" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="52" />
+              <folding>
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrequentNumber.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arrays/FrequentNumber.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary search.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arrays/Binary search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeNumbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Arrays/PrimeNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8902743">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
@@ -96,8 +128,11 @@
         <option value="$PROJECT_DIR$/Arrays/IncreaseArrayMembers.js" />
         <option value="$PROJECT_DIR$/Arrays/LexicographicallyCompare.js" />
         <option value="$PROJECT_DIR$/Arrays/MaximalSequence.js" />
-        <option value="$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js" />
         <option value="$PROJECT_DIR$/Arrays/SelectionSort.js" />
+        <option value="$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js" />
+        <option value="$PROJECT_DIR$/Arrays/FrequentNumber.js" />
+        <option value="$PROJECT_DIR$/Arrays/Binary search.js" />
+        <option value="$PROJECT_DIR$/Arrays/PrimeNumbers.js" />
       </list>
     </option>
   </component>
@@ -205,7 +240,7 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Arrays/SelectionSort.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Arrays/PrimeNumbers.js" />
     <property name="FullScreen" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="babel&#9;null&#9;null" />
@@ -253,7 +288,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/Arrays/SelectionSort.js" working-dir="$PROJECT_DIR$/Loops">
+    <configuration default="false" name="Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/Arrays/PrimeNumbers.js" working-dir="$PROJECT_DIR$/Loops">
       <method />
     </configuration>
     <list size="2">
@@ -280,7 +315,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -513,20 +548,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js">
+    <entry file="file://$PROJECT_DIR$/Arrays/SelectionSort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="4" column="52" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="52" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/SelectionSort.js">
+    <entry file="file://$PROJECT_DIR$/Arrays/MaximalIncreasingSequence.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80548626">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/FrequentNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="1" selection-start-line="3" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/Binary search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/PrimeNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8902743">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
