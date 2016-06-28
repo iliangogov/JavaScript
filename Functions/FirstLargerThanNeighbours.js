@@ -2,9 +2,8 @@
  * Created by Gogov on 6/27/2016.
  */
 function solve(args) {
-    var lines = (args[0] + '')
-            .split('\n'),
-        numbers = lines[1]
+
+    var    numbers = args[1]
             .split(' ')
             .map(Number);
 
@@ -31,5 +30,5 @@ function solve(args) {
 
     }
 }
-//solve(['6\n-26 -25 -28 31 2 27']);
+solve(['6','-26 -25 -28 31 2 27']);
 
