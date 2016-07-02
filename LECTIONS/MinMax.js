@@ -29,7 +29,8 @@ function solve(args){
 
 
     }
-return output.join(',');
+    
+console.log(output.join(','));
 }
 solve([
    '5',

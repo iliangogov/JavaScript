@@ -3,10 +3,10 @@
  */
 function solve(args) {
     var numbers = (args + '').split(' ').map(Number);
-    max = numbers.reduce(function (a, b) {
+    var max = numbers.reduce(function (a, b) {
         return a >= b ? a : b;
     });
     console.log(max);
 }
 
-//solve('2 3 4');
+solve('100 2 3 4');

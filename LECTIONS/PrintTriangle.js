@@ -1,6 +1,4 @@
-/**
- * Created by Gogov on 6/22/2016.
- */
+
 function printTriangle(n) {
     var line;
     n = +n;

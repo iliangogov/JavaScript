@@ -29,6 +29,8 @@ function solve(args) {
         }
 
     }
+
+
 }
 solve(['6','-26 -25 -28 31 2 27']);
 
