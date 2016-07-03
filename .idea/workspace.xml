@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f16c030-b99a-437f-83a4-72c228400171" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/Cakes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/Horsy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/JoroTheRabbit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/MaxSum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/Sequences.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/Vehicles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/regex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strings/CorrectBrackets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strings/ExtractTextFromHtml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strings/ParseTags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strings/ParseURL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strings/ReverseString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strings/SubstringInText.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strings/nbsp.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LECTIONS/LabyrinthEscape.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js" afterPath="$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/GetLargestNumber.js" afterPath="$PROJECT_DIR$/Functions/GetLargestNumber.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LECTIONS/Demos.js" afterPath="$PROJECT_DIR$/LECTIONS/Demos.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LECTIONS/MinMax.js" afterPath="$PROJECT_DIR$/LECTIONS/MinMax.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LECTIONS/Powers.js" afterPath="$PROJECT_DIR$/LECTIONS/Powers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LECTIONS/PrintTriangle.js" afterPath="$PROJECT_DIR$/LECTIONS/PrintTriangle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LECTIONS/MaxSum.js" afterPath="$PROJECT_DIR$/LECTIONS/MaxSum.js" />
     </list>
     <ignored path="JavaScriptFundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,18 +37,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnglishDigit.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/EnglishDigit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#solve#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FirstLargerThanNeighbours.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,16 +45,6 @@
               <folding>
                 <element signature="n#!!doc;n#solve#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectionSort.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays/SelectionSort.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -132,25 +91,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxSum.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MaxSum.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LECTIONS/MaxSum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc;n#Solve#0" expanded="false" />
+                <element signature="e#761#1327#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JoroTheRabbit.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JoroTheRabbit.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LECTIONS/JoroTheRabbit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
+            <state relative-caret-position="-340">
               <caret line="69" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="69" selection-end-column="3" />
               <folding>
                 <element signature="e#41#1527#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LabyrinthEscape.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LECTIONS/LabyrinthEscape.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc;n#solve#0" expanded="false" />
+                <element signature="e#681#822#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sequences.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LECTIONS/Sequences.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc;n#Solve#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -171,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ConditionalStatements/ExchangeIfGreater.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/MultiplicationSign.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/TheBiggestOfThree.js" />
         <option value="$PROJECT_DIR$/ConditionalStatements/Sort 3numbers.js" />
@@ -215,13 +199,14 @@
         <option value="$PROJECT_DIR$/LECTIONS/Sequences.js" />
         <option value="$PROJECT_DIR$/LECTIONS/JoroTheRabbit.js" />
         <option value="$PROJECT_DIR$/LECTIONS/MaaxSum.js" />
-        <option value="$PROJECT_DIR$/LECTIONS/MaxSum.js" />
         <option value="$PROJECT_DIR$/Functions/AppearanceCount.js" />
         <option value="$PROJECT_DIR$/Functions/LargerThanNeighbours.js" />
         <option value="$PROJECT_DIR$/Functions/GetLargestNumber.js" />
         <option value="$PROJECT_DIR$/Functions/FirstLargerThanNeighbours.js" />
         <option value="$PROJECT_DIR$/LECTIONS/MinMax.js" />
         <option value="$PROJECT_DIR$/LECTIONS/Demos.js" />
+        <option value="$PROJECT_DIR$/LECTIONS/LabyrinthEscape.js" />
+        <option value="$PROJECT_DIR$/LECTIONS/MaxSum.js" />
       </list>
     </option>
   </component>
@@ -358,7 +343,7 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LECTIONS/Demos.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LECTIONS/MaxSum.js" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="babel&#9;null&#9;null" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -422,7 +407,7 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Test" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/LECTIONS/Demos.js" working-dir="$PROJECT_DIR$/Loops">
+    <configuration default="false" name="Test" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/LECTIONS/MaxSum.js" working-dir="$PROJECT_DIR$/Loops">
       <method />
     </configuration>
     <list size="2">
@@ -449,16 +434,16 @@
       <option name="presentableId" value="Default" />
       <updated>1465561562531</updated>
       <workItem from="1467381779212" duration="13502000" />
-      <workItem from="1467443214714" duration="24990000" />
+      <workItem from="1467443214714" duration="48612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38492000" />
+    <option name="totallyTimeSpent" value="62114000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -500,18 +485,11 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ConditionalStatements/NumberAsWords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ConditionalStatements/NumberAsWord2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -804,16 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LECTIONS/Sequences.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc;n#Solve#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays/MaximalSequence.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
@@ -896,6 +864,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LECTIONS/JoroTheRabbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="69" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="69" selection-end-column="3" />
+          <folding>
+            <element signature="e#41#1527#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LECTIONS/Demos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -904,22 +882,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LECTIONS/MaxSum.js">
+    <entry file="file://$PROJECT_DIR$/LECTIONS/Sequences.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc;n#Solve#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LECTIONS/JoroTheRabbit.js">
+    <entry file="file://$PROJECT_DIR$/LECTIONS/LabyrinthEscape.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="69" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="69" selection-end-column="3" />
+        <state relative-caret-position="187">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding>
-            <element signature="e#41#1527#0" expanded="false" />
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+            <element signature="e#681#822#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LECTIONS/MaxSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc;n#Solve#0" expanded="false" />
+            <element signature="e#761#1327#0" expanded="false" />
           </folding>
         </state>
       </provider>

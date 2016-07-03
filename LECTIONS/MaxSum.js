@@ -26,6 +26,32 @@ function Solve(params) {
     // More information on prefix sums: http://en.wikipedia.org/wiki/Prefix_sum
 
     console.log(maxSum);
+/*function Solve(args){
+    var len=+args[0];
+    var sequence=[] ;
+    for(var i=1;i<=len;i+=1){
+        sequence.push(+args[i]);
+    }
+    var MaxSum=-2000000;
+    console.log(len);
+    console.log(sequence);
+
+    for(var i=0;i<len;i+=1){
+
+        for(var j=i;j<len-1;j+=1){
+            var sum=sequence[j];
+            if(sum>sum+sequence[j+1]){
+                sum+=sequence[j+1];
+                if(sum>MaxSum){
+                    MaxSum=sum;
+                }
+            }else{
+                break;
+            }
+        }
+    }
+
+    console.log(MaxSum);*/
 }
 Solve(['6','1','3','-5','8','7','-6']);
 
