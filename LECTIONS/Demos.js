@@ -32,3 +32,6 @@ function flatten(arr, item) {
     return arr.concat([item]);
 }
 console.log(arr.reduce(flatten, []));  //[ 1, 2, 3, 4, 5, 6, 7 ]
+
+console.log(arr.splice(0,2,"op"));
+console.log(arr);

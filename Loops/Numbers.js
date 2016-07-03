@@ -10,4 +10,4 @@ function solve(args) {
     }
     console.log(output);
 }
-//solve('5')
+solve('5')
