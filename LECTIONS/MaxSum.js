@@ -1,6 +1,8 @@
 /**
  * Created by Gogov on 7/2/2016.
  */
+
+/*
 function Solve(params) {
     var N = parseInt(params[0]);
     var numbers = [];
@@ -26,32 +28,32 @@ function Solve(params) {
     // More information on prefix sums: http://en.wikipedia.org/wiki/Prefix_sum
 
     console.log(maxSum);
-/*function Solve(args){
+}
+*/
+
+function Solve(args){
     var len=+args[0];
     var sequence=[] ;
-    for(var i=1;i<=len;i+=1){
-        sequence.push(+args[i]);
+    for(var y=1;y<=len;y+=1){
+        sequence.push(+args[y]);
     }
-    var MaxSum=-2000000;
-    console.log(len);
-    console.log(sequence);
+    var sum=0;
+    var bestSum=sequence[0];
 
-    for(var i=0;i<len;i+=1){
+    for(var i=0;i<len-1;i+=1){
+        sum=sequence[i];
+        for(var j=i+1;j<=len;j+=1){
 
-        for(var j=i;j<len-1;j+=1){
-            var sum=sequence[j];
-            if(sum>sum+sequence[j+1]){
-                sum+=sequence[j+1];
-                if(sum>MaxSum){
-                    MaxSum=sum;
-                }
-            }else{
-                break;
+            if(sum>bestSum){
+                bestSum=sum;
             }
+            sum+=sequence[j];
         }
     }
 
-    console.log(MaxSum);*/
+    console.log(bestSum);
 }
+Solve(['8', '1', '6', '-9', '4', '4', '-2', '10', '-1']);
 Solve(['6','1','3','-5','8','7','-6']);
+Solve(['9', '-9', '-8', '-8', '-7', '-6', '-5', '-1', '-7', '-6']);
 

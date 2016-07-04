@@ -11,7 +11,7 @@ function solve(args){
     var moves=[];
     var sum=0;
     var counter=0;
-    
+
     var matrix=[];
     var filler=1;
     for(var i =0;i<m;i+=1){

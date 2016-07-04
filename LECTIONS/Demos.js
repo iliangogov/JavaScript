@@ -1,7 +1,8 @@
+/*
 var numbers = [5, 1, 2, 4, 6];
-/*numbers.sort(function(x, y) {
+numbers.sort(function(x, y) {
     return x - y;
-});*/
+});
 
 
 console.log(numbers.filter(function (a,i,arr) {
@@ -34,4 +35,9 @@ function flatten(arr, item) {
 console.log(arr.reduce(flatten, []));  //[ 1, 2, 3, 4, 5, 6, 7 ]
 
 console.log(arr.splice(0,2,"op"));
+console.log(arr);*/
+var arr=[1,2,7,3,4,8,2,1,9,4];
+console.log(arr.filter(function(a,b,c){
+    return a>c[b-1]&&a>c[b+1];
+}));
 console.log(arr);

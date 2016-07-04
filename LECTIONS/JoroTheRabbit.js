@@ -1,73 +1,6 @@
 /**
  * Created by Gogov on 7/2/2016.
  */
-/*function solve(args){
-    var NMJ=args[0].split(' ').map(Number);
-    var startPos=args[1].split(' ').map(Number);
-    var N=NMJ[0];
-    var M=NMJ[1];
-    var J=NMJ[2];
-    var jumpsArr=[];
-
-    for(var i=2;i<=J+1;i+=1){
-        jumpsArr.push(args[i]);
-    }
-
-    var sum=0;
-    var jumps=0;
-
-    function GetMatrixValue(row,col){
-        var value=0;
-        value=row*M+1+col;
-        return value;
-    }
-
-    function onField(row,col){
-        if(+row>+N||+col>+M||+row<0||+col<0){
-            return false;
-        }
-        return true;
-    }
-
-
-//console.log(GetMatrixValue(3,2));
-
-    var currPosition=startPos;
-
-    console.log((jumpsArr));
-    var index=0;
-
-    while(true){
-
-        var currJumpRow=jumpsArr[index].split(' ').map(Number)[0];
-        var currJumpCol=jumpsArr[index].split(' ').map(Number)[1];
-        currPosition[0]=+currPosition[0]+currJumpRow;
-        currPosition[1]=+currPosition[1]+currJumpCol;
-
-        var visited=[];
-        visited.push(currPosition);
-
-        if(!onField(+currPosition[0],+currPosition[1])){
-            return console.log('escaped',sum);
-            break;
-        }
-
-        for(var positions in visited) {
-            if (+positions.split(' ')[0] === currPosition[0]&&+positions.split(' ')[1]===currPosition[1]) {
-                return console.log('caught', jumps);
-                break;
-            }
-        }
-
-        sum+=GetMatrixValue(+currPosition[0],+currPosition[1]);
-        jumps+=1;
-        index+=1;
-
-
-    }
-
-
-}*/
 
 function Solve(args) {
 
@@ -114,5 +47,49 @@ function Solve(args) {
         dir %= dirs.length;
     }
 }
+
+/*function solve(lines) {
+    var valley = lines[0]
+        .split(',')
+        .map(Number);
+
+    function isOutside(valley, index) {
+        return valley[index] === undefined;
+    }
+
+    function coinsForPattern(valley, pattern) {
+        var visited = [],
+            coins = 0,
+            index = 0,
+            patternIndex = 0;
+
+        // continue while not visited and inside valley
+        while(!visited[index] && !isOutside(valley, index)) {
+            coins += valley[index];
+            visited[index] = true;
+
+            index += pattern[patternIndex];
+
+            patternIndex = (patternIndex + 1) % pattern.length;
+        }
+
+        return coins;
+    }
+
+    var results = [];
+
+    for(var i = 2; i < lines.length; i += 1) {
+        var pattern = lines[i]
+            .split(',')
+            .map(Number);
+
+        results.push(coinsForPattern(valley, pattern));
+    }
+
+    var maxCoins = Math.max.apply(null, results);
+
+    return maxCoins;
+
+}*/
 
 Solve(['6 7 3','0 0', '2 2', '-2 2', '3 -1']);
