@@ -36,8 +36,9 @@ console.log(arr.reduce(flatten, []));  //[ 1, 2, 3, 4, 5, 6, 7 ]
 
 console.log(arr.splice(0,2,"op"));
 console.log(arr);*/
-var arr=[1,2,7,3,4,8,2,1,9,4];
-console.log(arr.filter(function(a,b,c){
-    return a>c[b-1]&&a>c[b+1];
+var arr=[1,7,7,1,4,4,2,1,9,9];
+console.log(arr.filter(function(item,index,arr){
+    return item===arr[index-1];
+
 }));
 console.log(arr);

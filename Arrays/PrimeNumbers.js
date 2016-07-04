@@ -20,5 +20,10 @@ function solve(args) {
             return;
         }
     }
+    if(n===1)console.log(1);
 }
+
+solve(['13']);
+solve(['126']);
+solve(['1']);
 
