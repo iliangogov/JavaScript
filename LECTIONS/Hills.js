@@ -1,6 +1,6 @@
 /**
  * Created by Gogov on 6/30/2016.
- */0
+ */
 function solve(args){
     var input= args[0].split(' ').map(Number);
     var i;

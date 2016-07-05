@@ -23,8 +23,7 @@ function solve(args) {
          }
          filler*=2;
      }
-
-
+    
     var visited=[];
     for(var i=0;i<r;i+=1){
         visited[i]=[];
@@ -77,7 +76,6 @@ function solve(args) {
                 currCol+=1;
                 continue;
             }
-
         }
     }
 }
