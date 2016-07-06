@@ -116,6 +116,18 @@ function solve(args){
 
             }
 
+            if(matrix[Wr][Wc]===true){
+                WisFree=false;
+            }
+            if(matrix[Nr][Nc]===true){
+                NisFree=false;
+            }
+            if((Wr===Nr)&&(Wc===Nc)){
+                matrix[Wr][Wc]=false;
+                NisFree=true;
+                WisFree=true;
+            }
+
             if((Math.abs(Wr-Lr)<2)&&(Math.abs(Wc-Lc)<2)){
                 console.log("The trolls caught Lsjtujzbo at "+Lr+' '+Lc);
                 break;
@@ -129,17 +141,7 @@ function solve(args){
                 break;
             }
 
-            if(matrix[Wr][Wc]===true){
-                WisFree=false;
-            }
-            if(matrix[Nr][Nc]===true){
-                NisFree=false;
-            }
-            if((Wr===Nr)&&(Wc===Nc)){
-                matrix[Wr][Wc]=false;
-                NisFree=true;
-                WisFree=true;
-            }
+
 
         }
     }
