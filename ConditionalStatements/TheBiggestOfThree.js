@@ -23,5 +23,6 @@ function solve(args) {
         }
     }
     console.log(biggest);
+    console.log(Math.max(...args))
 }
-//solve(['-1','0','2']);
+solve(['-1','10','2']);

@@ -9,3 +9,4 @@ function solve(args) {
         console.log('odd ' + args[0] * 1)
     }
 }
+ solve([3])

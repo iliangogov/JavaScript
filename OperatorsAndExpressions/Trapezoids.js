@@ -9,4 +9,4 @@ function solve(args) {
     var area=((a+b)/2)*h;
     console.log(area.toFixed(7));
 }
-//solve(['2','1','33']);
+solve(['2','1','33']);
