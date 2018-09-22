@@ -10,4 +10,4 @@ function solve(args) {
     }
     console.log(output);
 }
-//solve(['abc']);
+solve(['abc']);

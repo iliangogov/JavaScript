@@ -45,5 +45,6 @@ function solve(args) {
         }
     }
     console.log(biggest,mid,smallest);
+    console.log(...args.sort((a,b)=>b-a));
 }
-//solve(['5','6','-2']);
+solve(['5','6','-2']);

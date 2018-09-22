@@ -16,4 +16,4 @@ function solve(args) {
     console.log(sum);
 }
 
-//solve('1AE3');
+solve('1AE3');
